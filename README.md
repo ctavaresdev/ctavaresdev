@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Caio Tavares</h1>
+<h1 align="center">👨🏻‍💻 Caio Tavares</h1>
 
 ###
 
@@ -28,15 +28,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ctavaresdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ctavaresdev/ctavaresdev/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctavaresdev/ctavaresdev/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ctavaresdev/ctavaresdev/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ctavaresdev/ctavaresdev/pacman-output/breakout-contribution-graph.svg">
-</picture>
-
-###
