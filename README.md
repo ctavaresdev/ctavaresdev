@@ -29,5 +29,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ctavaresdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-  ![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ctavaresdev/ctavaresdev/blob/output/github-contribution-grid-snake-dark.svg)
 
